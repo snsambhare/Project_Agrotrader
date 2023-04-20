@@ -8,6 +8,6 @@ public class firstctr {
 
 	@RequestMapping("/hello123.everyone")
 	public String sayhello() {
-		return "Hello Ganesh";
+		return "Hello Everyone";
 	}
 }
